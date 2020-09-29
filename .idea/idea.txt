@@ -1,3 +1,4 @@
 this is file from idea
 
 add 1 to idea.txt from idea
+add 2 to idea.txt from idea
